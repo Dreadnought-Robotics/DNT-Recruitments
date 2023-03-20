@@ -1,5 +1,8 @@
 # Video Task
 
+Resources to refer:
+https://docs.opencv.org/3.4/dd/d43/tutorial_py_video_display.html
+
 Input any video and display a output video which skips 75% of the frames. 
 
 info input.mp4:
