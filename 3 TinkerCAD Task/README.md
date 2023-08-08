@@ -1,7 +1,7 @@
 **TinkerCAD task**
 
 The circuit has been given.
-Link to circuit:https://www.tinkercad.com/things/lMwjnJX7suc?sharecode=RylPCnp5oT5dlws194qyk78kYNVbjncXosr-r17EK9E
+Link to circuit:https://www.tinkercad.com/things/fAgB8u6zm4u?sharecode=Wq8cl-2Xk8K254lUMMTR5vOU1HGaE-UXPfOcRqUtN6k
 
-Using the tutorials given in https://www.javatpoint.com/arduino-coding-basics ,code for the given circuit on TinkerCAD such that when the motor is running,LED is on and when the motor is not running, LED is off. The motor should run with a 5s delay and in a loop.
+Using the tutorials given in https://www.javatpoint.com/arduino-coding-basics, code the given circuit on TinkerCAD such that when an object is detected at a distance (dis) > 300, only the yellow led glows. When an object is detected between the range 200-300, only the orange led glows and when the object is < 100, only the red led glows.
 
